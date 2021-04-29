@@ -38,3 +38,10 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+----------------------------------------------------
+Other resources for images
+	irasutoya: https://www.irasutoya.com/
+	free-materials.com: https://free-materials.com/
+	public domain q: https://publicdomainq.net/
